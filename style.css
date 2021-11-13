@@ -170,8 +170,9 @@ footer a:hover{
 .end{
     border-top: 0px transparent black;
     display: flex;
-    
-    
+    position: relative;
+    height: 50px;
+    padding: 5px;
 }
 .end.left{
     padding-left: 2px;
@@ -181,5 +182,7 @@ footer a:hover{
 .end.right{
     padding-right: 0px;
     flex: 1; 
+    position: absolute;
+    right: 0;
     
 }
