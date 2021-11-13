@@ -143,6 +143,7 @@ footer{
     background: rgb(53, 52, 52);
     position: fixed;
     bottom: 0;
+
     width: 100%;
     
     
@@ -174,19 +175,19 @@ footer a:hover{
     height: 50px;
     padding: 5px;
     background-color: rgb(245, 240, 240);
-    justify-content: space-between;
+    justify-content: space-between; 
 }
 .end.left{
     padding-left: 2px;
-    justify-content: space-between;
-    padding-right: 0px;
     flex: 1; 
+    
     
 }
 .end.right{
+    justify-content: space-between;
     padding-right: 0px;
     flex: 1; 
     position: absolute;
-    right: 0;
+    
     
 }
