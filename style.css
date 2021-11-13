@@ -173,6 +173,7 @@ footer a:hover{
     position: relative;
     height: 50px;
     padding: 5px;
+    background-color: rgb(245, 240, 240);
 }
 .end.left{
     padding-left: 2px;
