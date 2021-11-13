@@ -178,6 +178,7 @@ footer a:hover{
 }
 .end.left{
     padding-left: 2px;
+    justify-content: space-between;
     flex: 1; 
     
 }
